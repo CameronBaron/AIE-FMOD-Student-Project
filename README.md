@@ -32,7 +32,7 @@ Key points to keep in mind:
 - In every custom script containing FMOD, you will see this comment structure before the lines that refer to FMOD:
 
   /*===============================Fmod=========================================
-  =============================================================================/
+  ============================================================================*/
 
 - Feel free to use any and everything from this project in your own games!
 
